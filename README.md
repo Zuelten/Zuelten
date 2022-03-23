@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zuelten
+- 👀 I’m interested in learning python and connect to APIs downloading football data for betting purposes :)
+- If you are into bettting and like football please reach out to exchange ideas on for ex using ppg last 6 and creating some formula comparing teams.
+- 📫 How to reach me: henrikpelaitinengmail.com
